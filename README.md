@@ -16,7 +16,7 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,go,postgres,redis,kafka,docker,kubernetes,git,linux,tailwindcss,symfony" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,go,postgres,redis,kafka,docker,kubernetes,git,linux,tailwindcss,symfony,python" />
 </p>  
 
 ---
