@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Safar Umarov  
+# 👋 Hi, I'm Safar
 
 💻 Backend Developer with 4+ years of experience building scalable and high-load systems.  
 🔧 Skilled in **PHP (Laravel)/Golang**, microservices, modular monoliths, and DDD.  
