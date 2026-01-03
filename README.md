@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Safar
 
 💻 Backend Developer with 4+ years of experience building scalable and high-load systems.  
-🔧 Skilled in **PHP (Laravel)/Golang**, microservices, modular monoliths, and DDD.  
+🔧 Skilled in **PHP (Laravel)/Golang**, microservices, modular monoliths,DDD, architecture.  
 ⚡ Passionate about writing clean, testable, and maintainable code.  
 
 ---
 
 ## 🧑‍💻 About Me
 - 🔭 Currently working as a **PHP/Golang Developer**  
-- 🚀 Experience in **REST API development, database optimization, integrations, and more...**  
+- 🚀 Experience in **REST API development, database optimization, integrations, archtecture and more...**  
 - 🎯 Interested in **backend architectures, microservices, and high-load solutions**  
 - 🌍 Open to opportunities in **remote work or relocation**  
 
