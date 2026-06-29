@@ -23,7 +23,7 @@
 
 ## 🤝 Let's Connect
 <p align="center">
-  <a href="https://t.me/safarbek200"><img src="https://img.shields.io/badge/-Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" /></a>
-  <a href="mailto:safarumarov711@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://t.me/safardev313"><img src="https://img.shields.io/badge/-Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" /></a>
+  <a href="mailto:safardev313@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" /></a>
   <a href="https://github.com/umarov-safar"><img src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white&style=for-the-badge" /></a>
 </p>
