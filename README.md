@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Safar
 
-💻 Backend Developer with 4+ years of experience building scalable and high-load systems.  
+💻 Backend Developer with 5+ years of experience building scalable and high-load systems.  
 🔧 Skilled in **PHP (Laravel)/Golang**, microservices, modular monoliths,DDD, architecture and more...  
 ⚡ Passionate about writing clean, testable, and maintainable code.  
 
